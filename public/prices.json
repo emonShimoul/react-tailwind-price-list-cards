@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Membership",
+    "price": 29.99,
+    "description": "Access to gym equipment during regular hours",
+    "featureList": [
+      "Access to cardio machines",
+      "Access to weight machines",
+      "Access to free weights"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Premium Membership",
+    "price": 49.99,
+    "description": "Access to gym equipment during extended hours, plus group classes",
+    "featureList": [
+      "All Basic features",
+      "Access to group fitness classes",
+      "Extended hours of operation"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Platinum Membership",
+    "price": 79.99,
+    "description": "Unlimited access to gym equipment, group classes, and personal training",
+    "featureList": [
+      "All Premium features",
+      "Unlimited access to personal training sessions",
+      "Discounts on retail products"
+    ]
+  }
+]
